@@ -1,4 +1,4 @@
-# This is my Calculator project
+
 from tkinter import *
 
 mainWindow = Tk()
